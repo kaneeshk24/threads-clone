@@ -1,0 +1,7 @@
+.popup {
+  width: 100%;
+  position: relative;
+  background-color: var(--text-color);
+  height: 562px;
+  overflow: hidden;
+}
