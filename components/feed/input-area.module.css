@@ -1,0 +1,18 @@
+.asdasd {
+  border: 0;
+  outline: 0;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-sm);
+  background-color: transparent;
+  align-self: stretch;
+  height: 19px;
+  position: relative;
+  line-height: 19px;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
